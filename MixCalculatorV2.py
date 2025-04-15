@@ -74,7 +74,7 @@ def addCuke(l, s):
     if 'en' not in l: l.append('en')
     s.append('Cuke')
     return l, s, 2
-
+ 
 def addFluMedicine(l, s):
     rules = {'ca': 'be', 'at': 'mu', 'tp': 'gi', 'cy': 'fo', 'mu': 'sl', 'la': 'eu', 'eu': 'to', 'fc': 'ca', 'el': 're', 'sh': 'pa'}
     l = applyRules(l, rules)
