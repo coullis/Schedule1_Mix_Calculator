@@ -1,4 +1,11 @@
 
+Choose base product (OGKush:1, SourDiesel:2, GreenCrack:3, GrandaddyPurple:4, Meth:5, Coke:6): 6
+Choose item count: 8
+
+Best Combo:
+[addMotorOil, addCuke, addParacetamol, addGasoline, addCuke, addHorseSemen, addMegaBean, addBattery] -> Effects: 3 6 7 1 2 4 12 10 | Cost: 42 | Sell Price: 735 | Profit: 693
+Execution time: 1297.761000 seconds
+
 1: Cuke
 2: FluMedicine
 3: Gasoline
