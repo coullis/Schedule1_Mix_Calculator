@@ -991,7 +991,6 @@ void generateCombos(int *combo, int depth, int spots, int effectCounter, int *in
             memcpy(currentEffects, result.currentEffects, sizeof(int) * effectCounter);
             cost += itemCosts[combo[i]];
         }
-        //{addCuke, addFluMedicine, addGasoline, addDonut, addEnergyDrink, addMouthWash, addMotorOil, addBanana, addChili, addIodine, addParacetamol, addViagra, addHorseSemen, addMegaBean, addAddy, addBattery};
 
         double valueSum = 0.0;
         for (int i = 0; i < effectCounter; i++) {
